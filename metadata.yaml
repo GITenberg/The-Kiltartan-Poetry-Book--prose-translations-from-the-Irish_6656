@@ -1,0 +1,31 @@
+_repo: The-Kiltartan-Poetry-Book--prose-translations-from-the-Irish_6656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gregory, Lady
+    aliases:
+    - Persse, Isabella Augusta
+    - Gregory, Isabella Augusta Persse, Lady
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+description: In the introduction to this 1919 collection of Irish poems, the author
+  describes her patriotic awakening, and love for her Irish roots. After gathering
+  thirty-seven folk poems from the people of Ireland a stonecutter, a basket maker,
+  a man on the street, among others Lady Gregory translated and collected them here.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish literature -- Translations into English'
+- !lcc 'PB'
+- GITenberg
+title: The Kiltartan Poetry Book; prose translations from the Irish
+url: http://www.gutenberg.org/ebooks/6656
