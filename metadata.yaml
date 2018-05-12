@@ -1,5 +1,8 @@
 _repo: The-Kiltartan-Poetry-Book--prose-translations-from-the-Irish_6656
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gregory, Lady
@@ -15,6 +18,8 @@ description: In the introduction to this 1919 collection of Irish poems, the aut
   describes her patriotic awakening, and love for her Irish roots. After gathering
   thirty-seven folk poems from the people of Ireland a stonecutter, a basket maker,
   a man on the street, among others Lady Gregory translated and collected them here.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6656#The-Kiltartan-Poetry-Book--prose-translations-from-the-Irish
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
